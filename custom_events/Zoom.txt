@@ -1,0 +1,2 @@
+0.9 = default camera zoom
+put in value 1 any number (ex: 1.5)

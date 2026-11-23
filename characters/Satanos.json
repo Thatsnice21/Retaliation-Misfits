@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pyscho_Sonic_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Psycho_Sonic_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				171
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Psycho_Sonic_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				172
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Psycho_Sonic_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pyscho_Sonic_UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satanos the crackhog",
+	"position": [
+		90,
+		300
+	],
+	"healthicon": "satan icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		140,
+		229
+	],
+	"camera_position": [
+		-200,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

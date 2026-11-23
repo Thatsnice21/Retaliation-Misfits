@@ -1,0 +1,5 @@
+play on psych engine 6.3 for the custom death screens, psych 7.0+ isnt compatible with them for some reason
+psych 7.0+ also kinda breaks the act transitions...
+Anything below 6.3 completely breaks parts of the songs where there's character changes
+
+basically play on psych engine 6.3 for the optimal experience!

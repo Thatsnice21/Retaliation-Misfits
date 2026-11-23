@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-299
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				-316
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				111,
+				-309
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				151,
+				386
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "crush",
+			"indices": [],
+			"name": "fall"
+		},
+		{
+			"offsets": [
+				13,
+				-226
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/asshatmetalnewer",
+	"position": [
+		88,
+		-297
+	],
+	"healthicon": "Asshat",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		42,
+		206
+	],
+	"camera_position": [
+		-93,
+		174
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

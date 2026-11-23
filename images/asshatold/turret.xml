@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="turret.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="turret0000" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0001" x="192" y="0" width="194" height="325" frameX="-10" frameY="-40" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0002" x="386" y="0" width="219" height="299" frameX="-27" frameY="-66" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0003" x="192" y="0" width="194" height="325" frameX="-10" frameY="-40" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0004" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0005" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0006" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0007" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0008" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0009" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0010" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0011" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0012" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0013" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0014" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0015" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0016" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0017" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0018" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0019" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0020" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0021" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0022" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0023" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0024" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0025" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0026" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0027" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0028" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+	<SubTexture name="turret0029" x="0" y="0" width="192" height="365" frameX="0" frameY="0" frameWidth="246" frameHeight="365"/>
+</TextureAtlas>

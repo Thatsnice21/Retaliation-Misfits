@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-77
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FAKER IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FAKER UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				-69
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FAKER LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FAKER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FAKER RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jollyfaker",
+	"position": [
+		320,
+		-30
+	],
+	"healthicon": "metalfakerbutcheredbeyondcomprehension",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		166
+	],
+	"camera_position": [
+		-90,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

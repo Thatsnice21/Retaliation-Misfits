@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jolly.png">
+<SubTexture name="jolly idle0000" x="267" y="0" width="314" height="438" frameX="-50" frameY="0" frameWidth="569" frameHeight="438" />
+<SubTexture name="jolly left0000" x="581" y="0" width="363" height="371" frameX="-49" frameY="-50" frameWidth="578" frameHeight="432" />
+<SubTexture name="jolly right0000" x="0" y="531" width="309" height="328" frameX="-120" frameY="-85" frameWidth="576" frameHeight="433" />
+<SubTexture name="jolly up0000" x="0" y="0" width="267" height="531" frameX="-113" frameY="-14" frameWidth="447" frameHeight="558" />
+<SubTexture name="jolly down0000" x="309" y="531" width="344" height="264" frameX="-88" frameY="-151" frameWidth="576" frameHeight="433" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-274,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-154,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-156,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-369,
+				-101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-83
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Asshatteold",
+	"position": [
+		88,
+		-17
+	],
+	"healthicon": "Asshat",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		42,
+		206
+	],
+	"camera_position": [
+		-93,
+		164
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

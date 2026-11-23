@@ -1,0 +1,46 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-154,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "STUPID"
+		},
+		{
+			"offsets": [
+				177,
+				-135
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "shoot",
+			"loop": false,
+			"name": "EPIC"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/normalcdthing",
+	"position": [
+		88,
+		-297
+	],
+	"healthicon": "Asshat",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		42,
+		206
+	],
+	"camera_position": [
+		-93,
+		174
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pogdie.png">
+<SubTexture name="pogdie idle0000" x="284" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="pogdie left0000" x="472" y="512" width="332" height="369" frameX="0" frameY="0" frameWidth="332" frameHeight="369" />
+<SubTexture name="pogdie down0000" x="0" y="0" width="284" height="512" frameX="0" frameY="0" frameWidth="284" frameHeight="512" />
+<SubTexture name="pogdie up0000" x="0" y="512" width="472" height="378" frameX="0" frameY="0" frameWidth="472" frameHeight="378" />
+<SubTexture name="pogdie right0000" x="784" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

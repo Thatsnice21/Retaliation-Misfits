@@ -1,0 +1,68 @@
+{
+	"storyName": "unused songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "main week",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"l4m3nt",
+			"4rmshd",
+			[
+				40,
+				30,
+				30
+			]
+		],
+		[
+			"incompecat",
+			"incompecat",
+			[
+				126,
+				0,
+				255
+			]
+		],
+		[
+			"my-song",
+			"chatox",
+			[
+				255,
+				73,
+				153
+			]
+		],
+		[
+			"shootin' lootin' v2",
+			"turret",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"skill issue",
+			"asshat",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "extras",
+	"hiddenUntilUnlocked": true
+}

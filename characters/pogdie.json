@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pogdie idle"
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pogdie left"
+		},
+		{
+			"offsets": [
+				209,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pogdie up"
+		},
+		{
+			"offsets": [
+				218,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pogdie right"
+		},
+		{
+			"offsets": [
+				135,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pogdie down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pogdie",
+	"position": [
+		100,
+		100
+	],
+	"healthicon": "pogaltph3",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		25,
+		162
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

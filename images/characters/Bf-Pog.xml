@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf-Pog.png">
+<SubTexture name="Bf-Pog idle0000" x="5183" y="0" width="2522" height="2662" frameX="-492" frameY="-64" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog rightmiss0000" x="0" y="2746" width="2481" height="2623" frameX="-472" frameY="-103" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0001" x="7627" y="5369" width="2391" height="2439" frameX="-450" frameY="-287" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0002" x="7627" y="5369" width="2391" height="2439" frameX="-450" frameY="-287" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0003" x="7627" y="5369" width="2391" height="2439" frameX="-450" frameY="-287" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0004" x="7705" y="2581" width="2481" height="2578" frameX="-440" frameY="-148" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0005" x="7705" y="2581" width="2481" height="2578" frameX="-440" frameY="-148" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0006" x="7705" y="2581" width="2481" height="2578" frameX="-440" frameY="-148" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog idle0007" x="5183" y="0" width="2522" height="2662" frameX="-492" frameY="-64" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog left0000" x="7705" y="0" width="2582" height="2581" frameX="-258" frameY="-145" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog left0001" x="5027" y="2746" width="2597" height="2587" frameX="-234" frameY="-139" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog why0000" x="5047" y="5369" width="2580" height="2525" frameX="-65" frameY="-220" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog down0000" x="10287" y="2408" width="2465" height="2393" frameX="-411" frameY="-334" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog down0001" x="10287" y="4801" width="2425" height="2245" frameX="-389" frameY="-481" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog owie0000" x="0" y="7930" width="2540" height="2283" frameX="-195" frameY="-462" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog up0000" x="2481" y="2746" width="2546" height="2589" frameX="-442" frameY="-138" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog up0001" x="2575" y="0" width="2608" height="2719" frameX="-554" frameY="-8" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog ouch0000" x="0" y="0" width="2575" height="2746" frameX="-429" frameY="-1" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog right0000" x="0" y="5369" width="2494" height="2561" frameX="-621" frameY="-165" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog right0001" x="2494" y="5369" width="2553" height="2538" frameX="-909" frameY="-188" frameWidth="3544" frameHeight="2890" />
+<SubTexture name="Bf-Pog oof0000" x="10287" y="0" width="2507" height="2408" frameX="-523" frameY="-337" frameWidth="3544" frameHeight="2890" />
+</TextureAtlas>

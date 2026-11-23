@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pogster pogDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				191
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pogster pogUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				73
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pogster idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pogster pogRIGHT"
+		},
+		{
+			"offsets": [
+				68,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pogster pog LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pogster",
+	"position": [
+		-1690,
+		-1410
+	],
+	"healthicon": "icon-pog",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		1230,
+		1550
+	],
+	"sing_duration": 6.1,
+	"scale": 0.2
+}

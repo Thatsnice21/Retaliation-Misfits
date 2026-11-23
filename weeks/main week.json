@@ -1,0 +1,50 @@
+{
+	"storyName": "stolen meme exes (but with bangers)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "main",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"swag",
+			"pogfinal",
+			[
+				126,
+				0,
+				255
+			]
+		],
+		[
+			"snowy-day",
+			"jollynewest",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"f0r34rms",
+			"4rmshd",
+			[
+				40,
+				40,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "main week"
+}

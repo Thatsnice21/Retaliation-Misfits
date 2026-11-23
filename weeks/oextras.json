@@ -1,0 +1,50 @@
+{
+	"storyName": "non week things!!!! for freeplay!!!!!!!!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "main week",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hellspawn",
+			"hellspawn",
+			[
+				126,
+				155,
+				80
+			]
+		],
+		[
+			"fourr-serious-mix",
+			"pogfinal",
+			[
+				126,
+				0,
+				255
+			]
+		],
+		[
+			"machina",
+			"jollynewest",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "extras",
+	"hiddenUntilUnlocked": true
+}

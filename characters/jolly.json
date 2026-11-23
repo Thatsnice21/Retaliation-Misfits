@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jolly left"
+		},
+		{
+			"offsets": [
+				3,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jolly down"
+		},
+		{
+			"offsets": [
+				3,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jolly up"
+		},
+		{
+			"offsets": [
+				47,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jolly right"
+		},
+		{
+			"offsets": [
+				-10,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jolly idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jolly",
+	"position": [
+		230,
+		-60
+	],
+	"healthicon": "icon-jolly_real",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		20,
+		0
+	],
+	"camera_position": [
+		-160,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

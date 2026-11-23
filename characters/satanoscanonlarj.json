@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-121
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				80
+			],
+			"anim": "normalcp",
+			"fps": 24,
+			"name": "hypocrite",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SatanosCanon",
+	"position": [
+		40,
+		160
+	],
+	"healthicon": "gatanos-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		168,
+		196
+	],
+	"camera_position": [
+		-130,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

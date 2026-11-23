@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normalcpasshat.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normalcp instance 10000" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10001" x="251" y="0" width="277" height="396" frameX="-22" frameY="-1" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10002" x="528" y="0" width="301" height="387" frameX="0" frameY="-8" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10003" x="528" y="0" width="301" height="387" frameX="0" frameY="-8" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10004" x="251" y="0" width="277" height="396" frameX="-22" frameY="-1" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10005" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10006" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10007" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10008" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10009" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10010" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10011" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10012" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10013" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10014" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10015" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10016" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10017" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10018" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10019" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10020" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10021" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10022" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10023" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10024" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10025" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10026" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10027" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10028" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+	<SubTexture name="normalcp instance 10029" x="0" y="0" width="251" height="399" frameX="-53" frameY="0" frameWidth="304" frameHeight="399"/>
+</TextureAtlas>

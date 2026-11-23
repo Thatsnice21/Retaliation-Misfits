@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frank.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle frank instance 10000" x="0" y="0" width="336" height="411" frameX="-14" frameY="0" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10001" x="436" y="0" width="335" height="401" frameX="-18" frameY="-11" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10002" x="871" y="0" width="334" height="390" frameX="-22" frameY="-22" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10003" x="871" y="0" width="334" height="390" frameX="-22" frameY="-22" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10004" x="436" y="0" width="335" height="401" frameX="-18" frameY="-11" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10005" x="0" y="0" width="336" height="411" frameX="-14" frameY="0" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10006" x="1305" y="0" width="337" height="394" frameX="-9" frameY="-18" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10007" x="0" y="511" width="339" height="383" frameX="-4" frameY="-29" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10008" x="439" y="511" width="340" height="366" frameX="0" frameY="-46" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10009" x="439" y="511" width="340" height="366" frameX="0" frameY="-46" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10010" x="0" y="511" width="339" height="383" frameX="-4" frameY="-29" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10011" x="1305" y="0" width="337" height="394" frameX="-9" frameY="-18" frameWidth="356" frameHeight="412"/>
+	<SubTexture name="idle frank instance 10012" x="0" y="0" width="336" height="411" frameX="-14" frameY="0" frameWidth="356" frameHeight="412"/>
+</TextureAtlas>

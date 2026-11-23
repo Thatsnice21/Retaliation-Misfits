@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-296,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-354,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				197,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-31,
+				-323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chatox-beast",
+	"position": [
+		-650,
+		-130
+	],
+	"healthicon": "beastchatox",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		201,
+		221
+	],
+	"camera_position": [
+		200,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

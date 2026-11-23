@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grtanos.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gr tanos instance 10000" x="0" y="0" width="360" height="270" frameX="-17" frameY="0" frameWidth="382" frameHeight="270"/>
+	<SubTexture name="gr tanos instance 10001" x="460" y="0" width="372" height="265" frameX="-6" frameY="-2" frameWidth="382" frameHeight="270"/>
+	<SubTexture name="gr tanos instance 10002" x="0" y="370" width="382" height="257" frameX="0" frameY="-4" frameWidth="382" frameHeight="270"/>
+	<SubTexture name="gr tanos instance 10003" x="0" y="370" width="382" height="257" frameX="0" frameY="-4" frameWidth="382" frameHeight="270"/>
+	<SubTexture name="gr tanos instance 10004" x="460" y="0" width="372" height="265" frameX="-6" frameY="-2" frameWidth="382" frameHeight="270"/>
+	<SubTexture name="gr tanos instance 10005" x="0" y="0" width="360" height="270" frameX="-17" frameY="0" frameWidth="382" frameHeight="270"/>
+</TextureAtlas>

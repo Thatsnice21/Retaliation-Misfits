@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				591,
+				361
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle low"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shitty_idle",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "sonc",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		16,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "we paid a guy on fiverr for these lmao",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pog",
+	"weekBefore": "main week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"harend",
+			"pog",
+			[
+				126,
+				0,
+				255
+			]
+		],
+		[
+			"fourr",
+			"pog",
+			[
+				126,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "pog fiverr week"
+}

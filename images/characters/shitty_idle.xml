@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shitty idle.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle low instance 10000" x="0" y="0" width="640" height="698" frameX="-84" frameY="-4" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10001" x="740" y="0" width="796" height="706" frameX="-5" frameY="0" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10002" x="1636" y="0" width="716" height="706" frameX="-45" frameY="0" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10003" x="2452" y="0" width="716" height="675" frameX="-45" frameY="-16" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10004" x="3268" y="0" width="806" height="675" frameX="0" frameY="-16" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10005" x="3268" y="0" width="806" height="675" frameX="0" frameY="-16" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10006" x="2452" y="0" width="716" height="675" frameX="-45" frameY="-16" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10007" x="1636" y="0" width="716" height="706" frameX="-45" frameY="0" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10008" x="740" y="0" width="796" height="706" frameX="-5" frameY="0" frameWidth="806" frameHeight="706"/>
+	<SubTexture name="idle low instance 10009" x="0" y="0" width="640" height="698" frameX="-84" frameY="-4" frameWidth="806" frameHeight="706"/>
+</TextureAtlas>

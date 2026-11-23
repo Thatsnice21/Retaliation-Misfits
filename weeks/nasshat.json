@@ -1,0 +1,32 @@
+{
+	"storyName": "normalcp (yeat) finally has competition",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "asshat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "main week",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"shootdown",
+			"turret",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "asshat week",
+	"hiddenUntilUnlocked": true
+}

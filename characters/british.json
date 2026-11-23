@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				206
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				233
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				205
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				210
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				192
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS DOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				234
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS UP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				204
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS RIGHT instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/british",
+	"position": [
+		-150,
+		390
+	],
+	"healthicon": "sonc",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		16,
+		229
+	],
+	"camera_position": [
+		-80,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

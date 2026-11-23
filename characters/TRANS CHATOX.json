@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-230,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "trans",
+			"indices": [],
+			"name": "transform instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/transformation",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "chatox",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		101,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

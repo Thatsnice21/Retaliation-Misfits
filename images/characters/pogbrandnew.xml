@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pogbrandnew.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="409" height="475"/>
+	<SubTexture name="down0001" x="409" y="0" width="409" height="475"/>
+	<SubTexture name="idle0000" x="818" y="0" width="476" height="546"/>
+	<SubTexture name="idle0001" x="1294" y="0" width="476" height="546"/>
+	<SubTexture name="idle0002" x="1770" y="0" width="476" height="546"/>
+	<SubTexture name="idle0003" x="2246" y="0" width="476" height="546"/>
+	<SubTexture name="idle0004" x="2722" y="0" width="476" height="546"/>
+	<SubTexture name="idle0005" x="3198" y="0" width="476" height="546"/>
+	<SubTexture name="left0000" x="0" y="546" width="515" height="586"/>
+	<SubTexture name="left0001" x="515" y="546" width="515" height="586"/>
+	<SubTexture name="right0000" x="1030" y="546" width="461" height="545"/>
+	<SubTexture name="right0001" x="1491" y="546" width="461" height="545"/>
+	<SubTexture name="up0000" x="1952" y="546" width="489" height="570"/>
+	<SubTexture name="up0001" x="2441" y="546" width="489" height="570"/>
+	<SubTexture name="up0002" x="2930" y="546" width="489" height="570"/>
+</TextureAtlas>

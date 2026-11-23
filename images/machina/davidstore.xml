@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="davidstore.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="david instance 10000" x="0" y="0" width="306" height="397" frameX="-16" frameY="0" frameWidth="337" frameHeight="397"/>
+	<SubTexture name="david instance 10001" x="406" y="0" width="319" height="380" frameX="-9" frameY="-17" frameWidth="337" frameHeight="397"/>
+	<SubTexture name="david instance 10002" x="0" y="497" width="337" height="366" frameX="0" frameY="-31" frameWidth="337" frameHeight="397"/>
+	<SubTexture name="david instance 10003" x="406" y="0" width="319" height="380" frameX="-9" frameY="-17" frameWidth="337" frameHeight="397"/>
+	<SubTexture name="david instance 10004" x="0" y="0" width="306" height="397" frameX="-16" frameY="0" frameWidth="337" frameHeight="397"/>
+	<SubTexture name="david instance 10005" x="0" y="0" width="306" height="397" frameX="-16" frameY="0" frameWidth="337" frameHeight="397"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOOYOUSUCK.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death loop instance 10000" x="1408" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10000" x="0" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10001" x="0" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10002" x="704" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10003" x="704" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10004" x="1408" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10005" x="1408" y="0" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10006" x="0" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10007" x="0" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10008" x="704" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10009" x="704" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10010" x="1408" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10011" x="1408" y="199" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10012" x="0" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10013" x="0" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10014" x="704" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10015" x="704" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10016" x="1408" y="398" width="604" height="99"/>
+	<SubTexture name="firstdeath instance 10017" x="1408" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10000" x="1408" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10001" x="1408" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10002" x="704" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10003" x="704" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10004" x="0" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10005" x="0" y="398" width="604" height="99"/>
+	<SubTexture name="revive instance 10006" x="1408" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10007" x="1408" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10008" x="704" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10009" x="704" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10010" x="0" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10011" x="0" y="199" width="604" height="99"/>
+	<SubTexture name="revive instance 10012" x="1408" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10013" x="1408" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10014" x="704" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10015" x="704" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10016" x="0" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10017" x="0" y="0" width="604" height="99"/>
+	<SubTexture name="revive instance 10018" x="0" y="597" width="0" height="0" frameX="-799" frameY="579" frameWidth="605" frameHeight="99"/>
+</TextureAtlas>
